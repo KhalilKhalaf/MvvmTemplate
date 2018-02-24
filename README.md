@@ -32,8 +32,13 @@ Just an empty MVVM project:
 4. Do these in cmd:
 
 echo "# StereoVisionApp" >> README.md
+
 git init
+
 git add README.md
+
 git commit -m "first commit"
+
 git remote add origin https://github.com/KhalilKhalaf/NewNameHere.git
+
 git push -u origin master
