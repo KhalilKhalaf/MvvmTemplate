@@ -31,7 +31,7 @@ Just an empty MVVM project:
 3. Create a new remote repository with your desired name
 4. Do these in cmd:
 
-echo "# StereoVisionApp" >> README.md
+echo "# NewNameHere" >> README.md
 
 git init
 
