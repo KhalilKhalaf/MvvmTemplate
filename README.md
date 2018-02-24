@@ -23,7 +23,7 @@ Just an empty MVVM project:
 7.	Add your ViewModel Class that you set as startup in OnStartup() in step 6
 8.	Add a view (as a Window type) under Views folder
 9.	Resolve errors by including all files in the bootstrapper startup class and build
-
+See more here: https://www.youtube.com/watch?v=laPFq3Fhs8k
 
 # To use this Template:
 1. Download as .zip
